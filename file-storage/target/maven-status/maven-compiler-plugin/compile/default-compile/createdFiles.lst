@@ -1,0 +1,10 @@
+com\file\controller\StrorageController.class
+com\file\entity\FileData.class
+com\file\entity\ImageData$ImageDataBuilder.class
+com\file\util\ImageUtils.class
+com\file\StorageServiceApplication.class
+com\file\entity\ImageData.class
+com\file\entity\FileData$FileDataBuilder.class
+com\file\respository\StorageRepository.class
+com\file\service\StorageService.class
+com\file\respository\FileDataRepository.class
